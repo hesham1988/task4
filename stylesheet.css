@@ -1,0 +1,115 @@
+header { background-color: rgb(233, 106, 21);
+padding-left: 30px;
+margin: 10px;
+
+height: 50px;}
+.p1 {padding-top: 18px;}
+i { display: block;
+margin: 0 10px 0 0 ;}
+.icon { 
+    float: right;
+    position: relative;
+     padding: 10px;
+     margin: 10px ;
+     align-items: center;
+     position: absolute;
+     top: 11px;
+    right: 59px;
+ }
+ .topnav { float: right;
+    position: relative;
+    padding: 10px;
+    margin: 10px ;
+    align-items: center;
+    position: absolute;
+    top: 11px;
+   right: 160px;}
+   .top1 {
+    border: 1px solid royalblue;
+    background-color:rgb(233, 106, 21) ;
+    width: 93%;;
+    padding-left: 20px;
+    margin: 20px;
+   }
+   .discount { box-shadow:0 15px 13px rgb(0 0 0 / 20%);
+    
+background-color: white;
+width: fit-content;
+padding: 10px;}
+.stationary {    width: 423px;
+    height: 179px;
+    position: absolute;
+    top: 98px;
+    right: 142px;
+}
+    
+.p2 {font-size: 25px;
+font-weight: bold;}
+
+.squar1 {display: flex;
+    justify-content: space-around;}
+.features1 { border: 2px solid rgb(240, 112, 62);
+border-radius: 5px;
+padding: 20px;margin: 50px;}
+.p3 {font-size: 25px;
+    font-weight: bold;}
+.seeall {position: absolute;
+    top: 536px;
+    right: 10px;
+    background-color: white;
+    
+}
+.squar2 {
+    width: 97%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+padding-inline: 3px;}
+    .features2 {border: 2px solid rgb(240, 112, 62);
+        border-radius: 5px;
+        padding: 25px;
+        margin: 57px;}
+.squar3  {font-size: 25px;
+    font-weight: bold;}
+    .seeall2 {position: absolute;
+        top: 1000px;
+        right: 10px;
+        background-color: white;}
+.typo {padding: 29px;
+    margin: 31px;
+    
+    
+display : flex;
+justify-content: space-between;
+
+
+}
+.typo2 { 
+    justify-content: space-between;
+    
+    
+   
+background-color: rgba(141, 137, 138, 0.664);
+border-radius: 10px;}
+.img0 {border-radius: 10px; width: 100%; object-fit: cover;}
+h4 {text-align: center;}
+.note {background-color: rgb(240, 112, 62); width: 100%;height: 260px;}
+.noteimg { width: 282px;
+    height: 181px;
+    position: absolute;
+    top: 1450px;
+    bottom: 10px;
+    right: 44px;}
+.papers { font-size: 36px;
+    font-weight: bold;
+    position: absolute;
+    top: 1400px;
+    left: 73px;}
+.dis2 { box-shadow: 0 15px 13px rgb(0 0 0 / 20%);
+    background-color: white;
+    width: fit-content;
+    padding: 10px;
+    position: absolute;
+    top: 1550px;
+    left: 120px;transform: rotate(20deg);}
